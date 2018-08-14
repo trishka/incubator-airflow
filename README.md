@@ -12,8 +12,6 @@ _NOTE: The transition from 1.8.0 (or before) to 1.8.1 (or after) requires uninst
 Airflow is a platform to programmatically author, schedule, and monitor
 workflows.
 
-When workflows are defined as code, they become more maintainable,
-versionable, testable, and collaborative.
 
 Use Airflow to author workflows as directed acyclic graphs (DAGs) of tasks.
 The Airflow scheduler executes your tasks on an array of workers while
